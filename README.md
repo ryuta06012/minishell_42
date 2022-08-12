@@ -4,7 +4,7 @@ create a simple shell
 # Article
 hryuuta :
 
-[bashの再実装](https://tarry-single-524.notion.site/minishell-bec315c096894e3cb886fa0b180c729f)
+[bashの再実装](https://blog.hatena.ne.jp/hryuuta/hryuuta.hatenablog.com/edit)
 
 # Usage
 ```
