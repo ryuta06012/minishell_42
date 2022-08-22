@@ -4,7 +4,7 @@ A small shell like bash.
 # Article
 hryuuta :
 
-[bashの再実装](https://blog.hatena.ne.jp/hryuuta/hryuuta.hatenablog.com/edit)
+[bashの再実装](https://hryuuta.hatenablog.com/entry/2021/11/04/034942)
 
 # Usage
 
