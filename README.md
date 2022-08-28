@@ -1,4 +1,5 @@
 # minishell_42
+![minishell_github](https://user-images.githubusercontent.com/73034505/187074470-3e42a242-de6e-42ef-8b07-8b1ad2a1ae19.gif).  
 A small shell like bash.  
 一部機能が制限されたBashを実装しました。[詳しくはこちら](https://hryuuta.hatenablog.com/entry/2021/11/04/034942)
 
@@ -81,3 +82,4 @@ minishell > exit
 minishell > exit 42
 minishell > exit -- 1
 ```
+
