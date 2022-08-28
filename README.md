@@ -1,12 +1,9 @@
 # minishell_42
-A small shell like bash.
-一部機能が制限されたBashを実装しました。
-[詳しくはこちら](https://hryuuta.hatenablog.com/entry/2021/11/04/034942)
+A small shell like bash.  
+一部機能が制限されたBashを実装しました。[詳しくはこちら](https://hryuuta.hatenablog.com/entry/2021/11/04/034942)
 
 # Article
-hryuuta :
-
-[bashの再実装](https://hryuuta.hatenablog.com/entry/2021/11/04/034942)
+hryuuta :[bashの再実装](https://hryuuta.hatenablog.com/entry/2021/11/04/034942)
 
 # Usage
 
